@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bite Of Balance</string>
+    <string name="log_in">LOG IN</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="guest">GUEST</string>
+</resources>
